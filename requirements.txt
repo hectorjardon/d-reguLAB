@@ -1,0 +1,10 @@
+# Project dependencies required by `trees.py`
+# Add exact versions if you need reproducible installs.
+numpy
+scipy
+networkx
+matplotlib
+
+# Optional / dev tools (uncomment if desired):
+# pytest
+# black
